@@ -3,7 +3,7 @@ CCTV-1综合,https://stream1.freetv.fun/2eef9f8c5d705a92278310f3487bf30a060b8fff
 CCTV-2财经,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226540/index.m3u8
 CCTV-3综艺,https://stream1.freetv.fun/dc1e4b511a0f9f552faed7a626473746ec2d8eb61059811a86f5e9577939ee11.m3u8
 CCTV-4中文国际,http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000002000031664/1.m3u8
-CCTV-5体育,https://stream1.freetv.fun/00767d326941e21a4e25eb896733cee758c84fd79a16b8cbe5599818569f9217.m3u8
+CCTV-5体育,https://stream1.freetv.fun/cctv5-ti-yu-9.m3u8
 CCTV-5+体育赛事,rtsp://[2409:8087:2001:20:2800:0:df6e:eb18]:554/ott.mobaibox.com/000000400000001/H265_8000k_1080P_cctv05plus_CR
 CCTV-6电影,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226010/index.m3u8
 CCTV-7国防军事,https://stream1.freetv.fun/824ae139c9a46fe10603c297c8c3f02185dfa21e178366376853fb53f130f778.m3u8
