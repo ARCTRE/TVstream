@@ -1,5 +1,7 @@
 央视频道,#genre#
 CCTV-1综合,https://stream1.freetv.fun/2eef9f8c5d705a92278310f3487bf30a060b8fff51dba2b7191ba49652ca3a67.m3u8
+CCTV-1综合,https://stream1.freetv.fun/8f87cb8c4bcb4ebca0b8c52811830d2ecf095f7554c99b3343fb28ef2ed31e1b.m3u8
+CCTV-1综合,https://stream1.freetv.fun/cctv1-zong-he-11.m3u8
 CCTV-2财经,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226540/index.m3u8
 CCTV-3综艺,https://stream1.freetv.fun/dc1e4b511a0f9f552faed7a626473746ec2d8eb61059811a86f5e9577939ee11.m3u8
 CCTV-4中文国际,http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000002000031664/1.m3u8
@@ -12,9 +14,9 @@ CCTV-9纪录,http://[2409:8087:5e00:24::1e]:6060/000000001000/100000000100001458
 CCTV-10科教,https://stream1.freetv.fun/cctv10-ke-jiao-13.m3u8
 CCTV-11戏曲,https://stream1.freetv.fun/cctv11-44.ctv
 CCTV-12社会与法,https://stream1.freetv.fun/74444d10d49e0706c0ff8c8bb279292a793fcdc96bbbbf3544d5025b7678d4e8.m3u8
-CCTV-13新闻,http://[2409:8087:5e01:34::22]:6610/ZTE_CMS/00000001000000060000000000000516/index.m3u8?IAS
-CCTV-14少儿,http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000378/index.m3u8?IAS
-CCTV-15音乐,http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/00000001000000060000000000000501/index.m3u8?IAS
+CCTV-13新闻,https://stream1.freetv.fun/cctv13-xin-wen-13.m3u8
+CCTV-14少儿,https://stream1.freetv.fun/cctv14-shao-er-13.m3u8
+CCTV-15音乐,https://stream1.freetv.fun/0c7154f3090964b8ce7d9d3bc23aeb719e0d1cd452ba922b77b6b4e8863a0fcc.m3u8
 CCTV-16奥林匹克,rtsp://[2409:8087:2001:20:2800:0:df6e:eb1a]:554/ott.mobaibox.com/000000400000001/HD_8000k_1080P_cctv16_CR
 CCTV-17农业农村,http://[2409:8087:5e01:34::22]:6610/ZTE_CMS/00000001000000060000000000000494/index.m3u8?IAS
 
