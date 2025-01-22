@@ -148,9 +148,9 @@ CHC动作电影,http://58.19.38.162:9901/tsfile/live/1005_1.m3u8?key=txiptv&play
 CHC家庭影院,https://www.freetv.top/migu/644368373.m3u8?migutoken=b9d9d0ba0208e949cf0736455b86290b2d1d2ff4727f523b7117dde6eb883cb4582c5ce1519685e57d54bfb562057c10a00dde58bb674d8600fd2d918b8cb440294e083e7b8f19e0dbcc9250d8
 CHC家庭影院,http://58.19.38.162:9901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
 CHC影迷电影,http://58.19.38.162:9901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
-风云剧场,http://nas.zyylover.homes:35455/rptv/G_FENGYUNJC-CQ.m3u8?license=gitv
+风云剧场,http://220.169.111.157:802/udp/239.76.254.50:9000
 风云剧场,http://60.16.98.7:1111/rtp/232.0.0.45:1234
-第一剧场,http://nas.zyylover.homes:35455/rptv/G_DIYIJC-CQ.m3u8?license=gitv
+第一剧场,http://220.169.111.157:802/udp/239.76.254.49:9000
 第一剧场,http://60.16.98.7:1111/rtp/232.0.0.29:1234
 怀旧剧场,http://nas.zyylover.homes:35455/rptv/G_HUAIJIUJC-CQ.m3u8?license=gitv
 怀旧剧场,http://60.16.98.7:1111/rtp/232.0.0.38:1234
@@ -181,10 +181,10 @@ CCTV-16 奥林匹克,http://nas.zyylover.homes:35455/itv/1000000006000233002.m3u
 上海五星体育,http://[2409:8087:5e08:24::11]:6610/000000001000/2000000002000000007/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000007&IASHttpSessionId=OTT19019320240419154124000281
 上海五星体育,http://origin.lean.org.cn:4000/udp/239.45.3.210:5140
 风云足球,http://58.19.38.162:9901/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
-风云足球,http://60.16.98.7:1111/rtp/232.0.0.52:1234
-央视台球,http://nas.zyylover.homes:35455/rptv/G_TAIQIU-CQ.m3u8?license=gitv
+风云足球,http://220.169.111.157:802/udp/239.76.254.52:9000
+央视台球,http://220.169.111.157:802/udp/239.76.254.58:9000
 央视台球,http://60.16.98.7:1111/rtp/232.0.0.60:1234
-高尔夫网球,http://nas.zyylover.homes:35455/rptv/G_CCTV-GOLF-CQ.m3u8?license=gitv
+高尔夫网球,http://220.169.111.157:802/udp/239.76.254.62:9000
 超级体育,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226348/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7ETVADpDcwLMjKKWF--XtEOg%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 精品体育,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226978/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EEZy1Vmu4k2lYOlZCsti1BQ%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 劲爆体育,https://www.freetv.top/migu/796071336.m3u8?migutoken=1cc947d86cb584c31c31c88c005d55965238dbfff7ed75fca8451aed0b564786fde7e4b327e93b92dc96ef57e64e3bb56e8a9e921338080cdae817cb6125d8450b687659ecfee06be9c5d53ac6
@@ -203,14 +203,10 @@ CCTV-16 奥林匹克,http://nas.zyylover.homes:35455/itv/1000000006000233002.m3u
 CCTV-14 少儿,http://nas.zyylover.homes:35455/itv/1000000005000265013.m3u8?cdn=ystenlive
 CCTV-14 少儿,http://cc-ynbit-wszhibo.ifengli.com:2000/live/cctv-14hd/2500.m3u8?innersid=2025
 CCTV-14 少儿,https://www.freetv.top/migu/624878440.m3u8?migutoken=239edad94ac0bbff14f123c7f8996ed7639110bd6cf64ec8ba8cf85842224956d452ec8b683385cb27f8a7685224a03e3aa4d914b8fe33249da9df699351b105c795452d03f2be0a1f1e39adb0
-北京卡酷少儿,http://php.jdshipin.com:8880/itv6.php?cid=bestzb&id=7851974109718180595
-北京卡酷少儿,http://gslbservzqhsw.itv.cmvideo.cn/7851974109718180595/1.m3u8?channel-id=bestzb&Contentid=7851974109718180595&livemode=1&stbId=3
-北京卡酷少儿,http://222.68.33.45:9898/udp/239.45.0.8:5140
-北京卡酷少儿,http://114.243.101.252:8888/rtp/239.3.1.189:8000
-北京卡酷少儿,http://114.243.101.252:8888/rtp/239.3.1.189:8000
+北京卡酷少儿,http://220.169.111.157:802/udp/239.76.254.81:9000
 上海哈哈炫动,http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031123/1.m3u8
 上海哈哈炫动,http://gslbservzqhsw.itv.cmvideo.cn/5000000011000031123/1.m3u8?channel-id=bestzb&Contentid=5000000011000031123&livemode=1&stbId=3
-湖南金鹰卡通,http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000006000040024/1.m3u8
+湖南金鹰卡通,http://220.169.111.157:802/udp/239.76.245.120:1234
 湖南金鹰卡通,http://42.4.217.176:9006/rtp/232.0.0.90:1234
 黑莓动画,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226935/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EUc618y1E09GbQwwuOzEKaQ%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 动漫秀场,http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031113/1.m3u8
@@ -235,17 +231,17 @@ CGTN阿拉伯语,http://60.16.98.7:1111/rtp/232.0.0.43:1234
 CGTN阿拉伯语,https://0472.org/hls/cgtna.m3u8
 
 其他精选频道,#genre#
-风云音乐,http://nas.zyylover.homes:35455/rptv/G_FENGYUNYY-CQ.m3u8?license=gitv
+风云音乐,http://220.169.111.157:802/udp/239.76.254.51:9000
 风云音乐,http://60.16.98.7:1111/rtp/232.0.0.47:1234
-女性时尚,http://nas.zyylover.homes:35455/rptv/G_NVXINGSS-CQ.m3u8?license=gitv
+女性时尚,http://220.169.111.157:802/udp/239.76.254.55:9000
 女性时尚,http://60.16.98.7:1111/rtp/232.0.0.51:1234
-兵器科技,http://nas.zyylover.homes:35455/rptv/G_BINGQIKJ-CQ.m3u8?license=gitv
+兵器科技,http://220.169.111.157:802/udp/239.76.254.59:9000
 兵器科技,http://60.16.98.7:1111/rtp/232.0.0.58:1234
-世界地理,http://nas.zyylover.homes:35455/rptv/G_SHIJIEDL-CQ.m3u8?license=gitv
+世界地理,http://220.169.111.157:802/udp/239.76.254.57:9000
 世界地理,http://60.16.98.7:1111/rtp/232.0.0.63:1234
-文化精品,http://nas.zyylover.homes:35455/rptv/G_CCTV-WENHUA-CQ.m3u8?license=gitv
+文化精品,http://220.169.111.157:802/udp/239.76.254.56:9000
 文化精品,http://60.16.98.7:1111/rtp/232.0.0.56:1234
-电视指南,http://nas.zyylover.homes:35455/rptv/G_DIANSHIZN-CQ.m3u8?license=gitv
+电视指南,http://220.169.111.157:802/udp/239.76.254.61:9000
 纪实人文,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225738/index.m3u8
 纪实人文,http://42.4.217.176:9006/rtp/232.0.0.132:1234
 精品纪录,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226977/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EytT16QRYWEl2rKz4kPSdcQ%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
