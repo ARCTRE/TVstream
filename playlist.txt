@@ -1,6 +1,3 @@
-测试,#genre#
-东方卫视,http://61.173.67.147:9988/udp/239.45.3.146:5140$上海浦东电信
-河南卫视,http://115.57.160.189:4022/rtp/225.1.4.98:1127$河南郑州联通
 央视频道,#genre#
 
 CCTV-1 综合,http://123.113.44.64:3527/rtp/239.3.1.129:8008$北京海淀联通
@@ -268,6 +265,20 @@ CCTV-17 农业农村,http://live.wqwqwq.sbs/itv/1000000005000265015.m3u8?cdn=yst
 厦门卫视,https://live1b.kxm.xmtv.cn/xmtvbf/tvzb/live.m3u8$厦门电视台官方
 延边卫视,http://live.ybtvyun.com/video/s10006-44f040627ca1/index.m3u8?zjild$延边电视台官方
 西藏卫视,http://php.jdshipin.com:8880/xztv.php?id=ws
+
+辽宁台,#genre#
+
+辽宁卫视,
+辽宁公共,http://dassby.qqff.top:99/live/辽宁公共/index.m3u8
+辽宁北方,http://dassby.qqff.top:99/live/辽宁北方/index.m3u8
+辽宁影视剧,http://dassby.qqff.top:99/live/辽宁影视剧/index.m3u8
+辽宁教育青少,http://dassby.qqff.top:99/live/辽宁教育青少/index.m3u8
+辽宁生活,http://dassby.qqff.top:99/live/辽宁生活/index.m3u8
+辽宁经济,http://dassby.qqff.top:99/live/辽宁经济/index.m3u8
+辽宁都市,http://dassby.qqff.top:99/live/辽宁都市/index.m3u8
+辽宁体育休闲,http://dassby.qqff.top:99/live/辽宁体育休闲/index.m3u8
+辽宁移动电视,http://dassby.qqff.top:99/live/辽宁移动电视/index.m3u8
+铁岭新闻综合,
 
 影视频道,#genre#
 
