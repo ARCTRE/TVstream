@@ -268,7 +268,16 @@ CCTV-17 农业农村,http://live.wqwqwq.sbs/itv/1000000005000265015.m3u8?cdn=yst
 
 辽宁台,#genre#
 
-辽宁卫视,
+辽宁公共,http://36.129.204.120:65501/1058.m3u8
+辽宁北方,http://36.129.204.120:65501/1056.m3u8
+辽宁影视剧,http://36.129.204.120:65501/1052.m3u8
+辽宁教育青少,http://36.129.204.120:65501/1055.m3u8
+辽宁生活,http://36.129.204.120:65501/1054.m3u8
+辽宁经济,http://36.129.204.120:65501/1057.m3u8
+辽宁都市,http://36.129.204.120:65501/1051.m3u8
+辽宁体育休闲,http://36.129.204.120:65501/1053.m3u8
+辽宁移动电视,http://36.129.204.120:65501/1059.m3u8
+
 辽宁公共,http://dassby.qqff.top:99/live/辽宁公共/index.m3u8
 辽宁北方,http://dassby.qqff.top:99/live/辽宁北方/index.m3u8
 辽宁影视剧,http://dassby.qqff.top:99/live/辽宁影视剧/index.m3u8
@@ -278,7 +287,7 @@ CCTV-17 农业农村,http://live.wqwqwq.sbs/itv/1000000005000265015.m3u8?cdn=yst
 辽宁都市,http://dassby.qqff.top:99/live/辽宁都市/index.m3u8
 辽宁体育休闲,http://dassby.qqff.top:99/live/辽宁体育休闲/index.m3u8
 辽宁移动电视,http://dassby.qqff.top:99/live/辽宁移动电视/index.m3u8
-铁岭新闻综合,
+
 
 影视频道,#genre#
 
